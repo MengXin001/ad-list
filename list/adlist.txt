@@ -135,3 +135,9 @@
 ||y.gtimg.cn.tc.qq.com
 ||ylog.huya.com
 ||zz.bdstatic.com
+||log.voicecloud.cn
+||preload-click.uve.weibo.com
+||stats.rong-edge.com
+||log-auth.zztfly.com^
+||ubtlog.ctrip.com
+||big-data-statistics.jin10.com
