@@ -34,6 +34,7 @@
 ||auth.services.adobe.com
 ||bdlog.tanx.com
 ||bgg.baidu.com
+||big-data-statistics.jin10.com
 ||bootpreload.uve.weibo.com
 ||candy.engine.adglare.net
 ||cc-api-data.adobe.io
@@ -77,6 +78,8 @@
 ||lcs-robs.adobe.io
 ||liveupdate01s.asus.com.cn
 ||lng.xiaohongshu.com
+||log-auth.zztfly.com^
+||log.voicecloud.cn
 ||mcs.volceapplog.com
 ||miaozhen.com
 ||minigame.gtimg.cn
@@ -89,6 +92,7 @@
 ||pgdt.gtimg.cn
 ||pixon.ads-pixiv.net
 ||prd.autocad.com
+||preload-click.uve.weibo.com
 ||preload-impression.uve.weibo.com
 ||redirector.gvt1.com
 ||report.rtxapp.com
@@ -111,6 +115,7 @@
 ||stat6.y.qq.com
 ||statistics.gd.gov.cn
 ||stats-ipv6.jpush.cn
+||stats.rong-edge.com
 ||stripchat.com
 ||stripchat.webcam
 ||superchatlive.com
@@ -120,6 +125,7 @@
 ||toblog.volceapplog.com.queniuum.com
 ||trace.threatbook.cn
 ||tracking.leiting.com
+||ubtlog.ctrip.com
 ||up.autodesk.com
 ||update.googleapis.com
 ||update.pan.n.shifen.com
