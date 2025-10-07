@@ -1,3 +1,4 @@
+/*behaviordata*/
 /ad-sign.*/
 /autodesk.com/
 /fqnovelvod.*/
@@ -33,6 +34,8 @@
 ||assets.adobedtm.com
 ||auth.services.adobe.com
 ||bdlog.tanx.com
+||beacon.cdn.qq.com^
+||beacon.qq.com^
 ||bgg.baidu.com
 ||big-data-statistics.jin10.com
 ||bootpreload.uve.weibo.com
@@ -57,6 +60,7 @@
 ||himg.baidu.com
 ||hm.baidu.com
 ||httpdns.kg.qq.com
+||httpdns.yunxindns.com
 ||huichuan.sm.cn
 ||ic.adobe.io
 ||ifs.tanx.com
@@ -78,6 +82,7 @@
 ||lcs-robs.adobe.io
 ||liveupdate01s.asus.com.cn
 ||lng.xiaohongshu.com
+||loc.map.baidu.com
 ||log-auth.zztfly.com^
 ||log.voicecloud.cn
 ||mcs.volceapplog.com
@@ -96,6 +101,8 @@
 ||preload-impression.uve.weibo.com
 ||redirector.gvt1.com
 ||report.rtxapp.com
+||reportappgo.189.cn^
+||rmonitor.qq.com
 ||rtb.jp2.as.criteo.com
 ||rtb.voiceads.cn
 ||s.f.360.cn
