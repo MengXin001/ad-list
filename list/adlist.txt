@@ -141,3 +141,10 @@
 ||y.gtimg.cn.tc.qq.com
 ||ylog.huya.com
 ||zz.bdstatic.com
+||beacon.cdn.qq.com^
+||beacon.qq.com^
+||httpdns.yunxindns.com
+||reportappgo.189.cn^
+||loc.map.baidu.com
+/*behaviordata*/
+||rmonitor.qq.com
