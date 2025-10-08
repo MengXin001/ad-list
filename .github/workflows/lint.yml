@@ -18,6 +18,8 @@ on:
         description: 'The branch or tag to run the workflow on'
         required: false
         default: 'main'
+  schedule:
+    - cron: '0 0 */3 * *'
 
 permissions:
   contents: write
@@ -71,3 +73,15 @@ jobs:
           message: "chore: update release"
           ref: refs/heads/release
           token: ${{ secrets.GITHUB_TOKEN }}
+  cleanup:
+    name: Clean up old workflow runs
+    runs-on: ubuntu-latest
+    needs: release
+    steps:
+      - name: Delete old workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          retain_days: 7
+          keep_minimum_runs: 5
