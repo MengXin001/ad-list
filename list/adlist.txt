@@ -149,3 +149,7 @@
 ||y.gtimg.cn.tc.qq.com
 ||ylog.huya.com
 ||zz.bdstatic.com
+||ys-log-upload.mihoyo.com^
+||h5log-api-dualstack.mihoyo.com
+||log.aliyuncs.com^
+||hw-v2-web-player-tracker.biliapi.net
