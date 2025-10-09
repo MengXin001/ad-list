@@ -148,3 +148,4 @@
 ||y.gtimg.cn.tc.qq.com
 ||ylog.huya.com
 ||zz.bdstatic.com
+@@||havanalogin.taobao.com
