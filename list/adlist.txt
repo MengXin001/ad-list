@@ -58,11 +58,13 @@
 ||gather.colorfulclouds.net
 ||guide-acs.m.taobao.com
 ||h5collector.mihoyo.com
+||h5log-api-dualstack.mihoyo.com
 ||himg.baidu.com
 ||hm.baidu.com
 ||httpdns.kg.qq.com
 ||httpdns.yunxindns.com
 ||huichuan.sm.cn
+||hw-v2-web-player-tracker.biliapi.net
 ||ic.adobe.io
 ||ifs.tanx.com
 ||im-x.jd.com
@@ -85,6 +87,7 @@
 ||lng.xiaohongshu.com
 ||loc.map.baidu.com
 ||log-auth.zztfly.com^
+||log.aliyuncs.com^
 ||log.voicecloud.cn
 ||mcs.volceapplog.com
 ||miaozhen.com
@@ -148,4 +151,5 @@
 ||xxxivjmp.com
 ||y.gtimg.cn.tc.qq.com
 ||ylog.huya.com
+||ys-log-upload.mihoyo.com^
 ||zz.bdstatic.com
