@@ -9,6 +9,7 @@
 @@||analytics.moexin.cn
 @@||check.ddos-guard.net
 @@||data.bilibili.com
+@@||havanalogin.taobao.com
 ||<&emtrackingfordfcft&>
 ||activity-ag.awemeughun.com
 ||ad-arrow.com
