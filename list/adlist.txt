@@ -31,6 +31,7 @@
 ||api.weibo.cn/2/video/
 ||apis.map.qq.com
 ||apoll.m.taobao.com
+||app-analytics-services.com^
 ||appcloud2.in.zhihu.com
 ||assets.adobedtm.com
 ||auth.services.adobe.com
@@ -43,6 +44,7 @@
 ||candy.engine.adglare.net
 ||cc-api-data.adobe.io
 ||check.bt.cn
+||cnuspider.yuanshen.com
 ||cnzz.com
 ||collect.gmcc.net
 ||collector.github.com
@@ -88,9 +90,11 @@
 ||loc.map.baidu.com
 ||log-auth.zztfly.com^
 ||log.aliyuncs.com^
+||log.mmstat.com
 ||log.voicecloud.cn
 ||mcs.volceapplog.com
 ||miaozhen.com
+||miiowjituan.m.tmall.com
 ||minigame.gtimg.cn
 ||mobads.e.shifen.com
 ||msync-im1-vip6-std.easemob.com
@@ -153,7 +157,3 @@
 ||ylog.huya.com
 ||ys-log-upload.mihoyo.com^
 ||zz.bdstatic.com
-||log.mmstat.com
-||miiowjituan.m.tmall.com
-||cnuspider.yuanshen.com
-||app-analytics-services.com^
