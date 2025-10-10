@@ -153,3 +153,7 @@
 ||ylog.huya.com
 ||ys-log-upload.mihoyo.com^
 ||zz.bdstatic.com
+||log.mmstat.com
+||miiowjituan.m.tmall.com
+||cnuspider.yuanshen.com
+||app-analytics-services.com^
