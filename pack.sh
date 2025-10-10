@@ -10,7 +10,8 @@ cp -f ./list/pack_adlist.txt ./tmp/rules01.txt
 cd tmp
 
 rules=(
-  "https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt"
+  "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt"
+  #"https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_1.txt"
   "https://raw.githubusercontent.com/easylist/easylistchina/refs/heads/master/easylistchina.txt" #EasylistChina
   "https://raw.githubusercontent.com/easylist/easylist/refs/heads/gh-pages/easylist.txt" #Easylist
 )
