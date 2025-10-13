@@ -145,7 +145,6 @@
 ||update.googleapis.com
 ||update.pan.n.shifen.com
 ||ut.taobao.com^
-||wagbridge.alibaba.taobao.com.gds.alibabadns.com
 ||wbapp.uve.weibo.com
 ||weblog.cdn-go.cn
 ||www.adobe.com
