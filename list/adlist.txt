@@ -156,3 +156,5 @@
 ||ylog.huya.com
 ||ys-log-upload.mihoyo.com^
 ||zz.bdstatic.com
+||collector.weiyun.com
+||live-trace.bilibili.com
