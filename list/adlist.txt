@@ -48,6 +48,7 @@
 ||cnzz.com
 ||collect.gmcc.net
 ||collector.github.com
+||collector.weiyun.com
 ||df.tanx.com
 ||dfhs.tanx.com
 ||doppiocdn.com
@@ -85,6 +86,7 @@
 ||kgb-ifs.tanx.com
 ||lcs-cops.adobe.io
 ||lcs-robs.adobe.io
+||live-trace.bilibili.com
 ||liveupdate01s.asus.com.cn
 ||lng.xiaohongshu.com
 ||loc.map.baidu.com
@@ -156,5 +158,3 @@
 ||ylog.huya.com
 ||ys-log-upload.mihoyo.com^
 ||zz.bdstatic.com
-||collector.weiyun.com
-||live-trace.bilibili.com
