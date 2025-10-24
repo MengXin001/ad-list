@@ -28,6 +28,7 @@
 ||ali-stats.jpush.cn
 ||apd-pcdnwxlogin.teg.tencent-cloud.net
 ||api.crush.163.com
+||api.liveupdate.fnnas.com^
 ||api.weibo.cn/2/video/
 ||apis.map.qq.com
 ||apoll.m.taobao.com
@@ -49,6 +50,7 @@
 ||collect.gmcc.net
 ||collector.github.com
 ||collector.weiyun.com
+||collector.weiyun.com^
 ||df.tanx.com
 ||dfhs.tanx.com
 ||doppiocdn.com
@@ -65,7 +67,10 @@
 ||himg.baidu.com
 ||hm.baidu.com
 ||httpdns.kg.qq.com
+||httpdns.meituan.com^
 ||httpdns.yunxindns.com
+||httpdnsmultiapi.meituan.com^
+||https://ac.dun.163yun.com^
 ||huichuan.sm.cn
 ||hw-v2-web-player-tracker.biliapi.net
 ||ic.adobe.io
@@ -87,6 +92,7 @@
 ||lcs-cops.adobe.io
 ||lcs-robs.adobe.io
 ||live-trace.bilibili.com
+||live-trace.bilibili.com^
 ||liveupdate01s.asus.com.cn
 ||lng.xiaohongshu.com
 ||loc.map.baidu.com
@@ -121,6 +127,8 @@
 ||saawsedge.com
 ||sacdnssedge.com
 ||sagcoreedge.com
+||sdk-log-upload.mihoyo.com.w.kunluncan.com^
+||sdk-log-upload.mihoyo.com^
 ||sdkapp.uve.weibo.com
 ||settings.ttwebview.com
 ||sf3-fe-tos.pglstatp-toutiao.com
@@ -135,6 +143,8 @@
 ||stats.rong-edge.com
 ||stripchat.com
 ||stripchat.webcam
+||stun.voipstunt.com^
+||stun3.l.google.com^
 ||superchatlive.com
 ||t2.xiaohongshu.com
 ||tb-video.bdstatic.com
@@ -158,13 +168,3 @@
 ||ylog.huya.com
 ||ys-log-upload.mihoyo.com^
 ||zz.bdstatic.com
-||api.liveupdate.fnnas.com^
-||live-trace.bilibili.com^
-||collector.weiyun.com^
-||https://ac.dun.163yun.com^
-||httpdnsmultiapi.meituan.com^
-||httpdns.meituan.com^
-||sdk-log-upload.mihoyo.com.w.kunluncan.com^
-||sdk-log-upload.mihoyo.com^
-||stun.voipstunt.com^
-||stun3.l.google.com^
