@@ -158,3 +158,13 @@
 ||ylog.huya.com
 ||ys-log-upload.mihoyo.com^
 ||zz.bdstatic.com
+||api.liveupdate.fnnas.com^
+||live-trace.bilibili.com^
+||collector.weiyun.com^
+||https://ac.dun.163yun.com^
+||httpdnsmultiapi.meituan.com^
+||httpdns.meituan.com^
+||sdk-log-upload.mihoyo.com.w.kunluncan.com^
+||sdk-log-upload.mihoyo.com^
+||stun.voipstunt.com^
+||stun3.l.google.com^
