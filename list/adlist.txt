@@ -47,6 +47,7 @@
 ||applecsb.crm.189.cn
 ||assets.adobedtm.com
 ||auth.services.adobe.com
+||bandisoft.app^
 ||bdlog.tanx.com
 ||beacon.cdn.qq.com^
 ||beacon.qq.com^
@@ -64,6 +65,7 @@
 ||collector.github.com
 ||collector.weiyun.com
 ||collector.weiyun.com^
+||console-base.log-global.aliyuncs.com^
 ||ctldl.windowsupdate.com^
 ||df.tanx.com
 ||dfhs.tanx.com
@@ -192,7 +194,9 @@
 ||up.autodesk.com
 ||update.googleapis.com
 ||update.pan.n.shifen.com
+||upgrade-pc-ssl.xunlei.com^
 ||ut.taobao.com^
+||ver.bandi.so^
 ||wbapp.uve.weibo.com
 ||weblog.cdn-go.cn
 ||www.adobe.com
