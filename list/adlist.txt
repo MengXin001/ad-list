@@ -209,3 +209,5 @@
 ||ylog.huya.com
 ||ys-log-upload.mihoyo.com^
 ||zz.bdstatic.com
+||mountaintoys.cn^
+@@||exp.notion.so
