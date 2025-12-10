@@ -16,6 +16,7 @@
 @@||analytics.moexin.cn
 @@||check.ddos-guard.net
 @@||data.bilibili.com
+@@||exp.notion.so
 @@||h5api.m.taobao.com^
 @@||havanalogin.taobao.com
 ||<&emtrackingfordfcft&>
@@ -133,6 +134,7 @@
 ||miiowjituan.m.tmall.com
 ||minigame.gtimg.cn
 ||mobads.e.shifen.com
+||mountaintoys.cn^
 ||msync-im1-vip6-std.easemob.com
 ||nadvideo2.baidu.com
 ||onethingpcs.com^
