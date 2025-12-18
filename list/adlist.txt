@@ -126,7 +126,7 @@
 ||log-upload-v6.mihoyo.com.w.kunluncan.com
 ||log-v6.mmstat.com.gds.alibabadns.com
 ||log.aliyuncs.com^
-||log.mmstat.com
+||log.mmstat.com^$important
 ||log.voicecloud.cn
 ||mcdn.bilivideo.cn^
 ||mcs.volceapplog.com
@@ -211,3 +211,9 @@
 ||ylog.huya.com
 ||ys-log-upload.mihoyo.com^
 ||zz.bdstatic.com
+||pcdn-static.qcv.qcloud.com^
+||stat.youpin.mi.com^
+||tlivemcdn.com^
+||httpdns.kwd.inkuai.com
+||shark-tracer.netease.com
+/pcdn/

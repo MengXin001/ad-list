@@ -43,14 +43,6 @@ jobs:
       - name: Run FOP.py to check ordering
         run: echo "" | python3 FOP.py || true
         shell: bash
-      - name: Install dependencies
-        run: npm install
-      - name: Build page with npm
-        run: npm run build
-      - name: Save page
-        run: |
-          mkdir -p ../temp
-          cp -r dist/* ../temp
       - name: Commit changes to main branch
         uses: iarekylew00t/verified-bot-commit@v2.0.1
         with:
@@ -58,21 +50,6 @@ jobs:
             list/*.txt
           message: "chore: auto format lists"
           ref: refs/heads/main
-          token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Checkout release branch
-        uses: actions/checkout@v4
-        with:
-          ref: release
-      - name: Restore page
-        run: |
-          cp -r ../temp/* ./
-      - name: Commit changes to release branch
-        uses: iarekylew00t/verified-bot-commit@v2.0.1
-        with:
-          files: |
-            **
-          message: "chore: update release"
-          ref: refs/heads/release
           token: ${{ secrets.GITHUB_TOKEN }}
   cleanup:
     name: Clean up old workflow runs
@@ -85,4 +62,4 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           repository: ${{ github.repository }}
           retain_days: 7
-          keep_minimum_runs: 5
+          keep_minimum_runs: 3
