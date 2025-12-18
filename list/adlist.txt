@@ -11,6 +11,7 @@
 /lf.fqnovel.*/
 /mgsdk-sign.*/
 /pangolin-sdk.*/
+/pcdn/
 /snssdk.*/
 /stun/
 @@||analytics.moexin.cn
@@ -88,6 +89,7 @@
 ||hm.baidu.com
 ||httpdns.alicdn.com^
 ||httpdns.kg.qq.com
+||httpdns.kwd.inkuai.com
 ||httpdns.meituan.com^
 ||httpdns.yunxindns.com
 ||httpdnsmultiapi.meituan.com^
@@ -142,6 +144,7 @@
 ||opencdnbdfctn.jomodns.com
 ||optimus-ads.amap.com
 ||p2p.huya.com^
+||pcdn-static.qcv.qcloud.com^
 ||pcdn.xmcdn.com^
 ||pcdn.yximgs.com
 ||pgdt.gtimg.cn
@@ -171,10 +174,12 @@
 ||sf3-fe-tos.pglstatp-toutiao.com
 ||sf3-ttcdn-tos.pstatp.com
 ||sf6-fe-tos.pglstatp-toutiao.com
+||shark-tracer.netease.com
 ||sigma-prodbehavior-a29.proxima.nie.netease.com
 ||skdisplay.jd.com
 ||sofire.baidu.com
 ||spider-tracker.xiaohongshu.com
+||stat.youpin.mi.com^
 ||stat6.y.qq.com
 ||statistics.gd.gov.cn
 ||stats-ipv6.jpush.cn
@@ -186,6 +191,7 @@
 ||t2.xiaohongshu.com
 ||tb-video.bdstatic.com
 ||tb.himg.baidu.com
+||tlivemcdn.com^
 ||toblog.volceapplog.com.queniuum.com
 ||tpa-hcdn.iqiyi.com^
 ||trace.threatbook.cn
@@ -211,9 +217,3 @@
 ||ylog.huya.com
 ||ys-log-upload.mihoyo.com^
 ||zz.bdstatic.com
-||pcdn-static.qcv.qcloud.com^
-||stat.youpin.mi.com^
-||tlivemcdn.com^
-||httpdns.kwd.inkuai.com
-||shark-tracer.netease.com
-/pcdn/
