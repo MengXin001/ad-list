@@ -14,6 +14,7 @@ rules=(
   #"https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_1.txt"
   "https://raw.githubusercontent.com/easylist/easylistchina/refs/heads/master/easylistchina.txt" #EasylistChina
   "https://raw.githubusercontent.com/easylist/easylist/refs/heads/gh-pages/easylist.txt" #Easylist
+  "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt" #anti-AD
 )
 
 for i in "${!rules[@]}"; do
