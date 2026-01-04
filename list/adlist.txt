@@ -14,6 +14,7 @@
 /pcdn/
 /stun/
 @@||analytics.moexin.cn
+@@||cdn.staticfile.net^
 @@||check.ddos-guard.net
 @@||data.bilibili.com
 @@||exp.notion.so
@@ -22,6 +23,7 @@
 ||<&emtrackingfordfcft&>
 ||activity-ag.awemeughun.com
 ||ad-arrow.com
+||ad-log-upload.mihoyo.com^
 ||ad.12306.cn
 ||ad.c.ximalaya.com
 ||ad.us.sinaimg.cn
@@ -31,10 +33,12 @@
 ||adchk.fivecdm.com
 ||adgw.alipay.com
 ||admonitor-feedback.cn-hangzhou-c.log.aliyuncs.com
+||adsrv.kurogames.com^
 ||adstats.tencentmusic.com
 ||adstrategy.biz.weibo.com
 ||adv.bandi.so
 ||ali-stats.jpush.cn
+||alsc-fingerprint.ele.me^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net
 ||api.crush.163.com
 ||api.liveupdate.fnnas.com^
@@ -68,8 +72,10 @@
 ||collector.weiyun.com^
 ||console-base.log-global.aliyuncs.com^
 ||ctldl.windowsupdate.com^
+||detect.chaoxing.com^
 ||df.tanx.com
 ||dfhs.tanx.com
+||dns.weixin.qq.com^
 ||doppiocdn.com
 ||ef-dongfeng.tanx.com
 ||effect.snssdk.com
@@ -129,6 +135,7 @@
 ||log.aliyuncs.com^
 ||log.mmstat.com^$important
 ||log.voicecloud.cn
+||m.zzx.cnklog.com^
 ||mcdn.bilivideo.cn^
 ||mcs.volceapplog.com
 ||miaozhen.com
@@ -152,9 +159,11 @@
 ||prd.autocad.com
 ||preload-click.uve.weibo.com
 ||preload-impression.uve.weibo.com
+||publiclog.zhiyan.tencent-cloud.net
 ||redirector.gvt1.com
 ||report.gamecenter.qq.com^
 ||report.rtxapp.com
+||report.tencentmusic.com^
 ||reportappgo.189.cn^
 ||rmonitor.qq.com
 ||rtb.jp2.as.criteo.com
@@ -195,6 +204,7 @@
 ||tpa-hcdn.iqiyi.com^
 ||trace.threatbook.cn
 ||tracking.leiting.com
+||trade.m.xiaomiyoupin.com^
 ||ubtlog.ctrip.com
 ||ugc-upload.mihoyo.com.w.kunluncan.com
 ||uhabo.com^
@@ -216,14 +226,3 @@
 ||ylog.huya.com
 ||ys-log-upload.mihoyo.com^
 ||zz.bdstatic.com
-@@||cdn.staticfile.net^
-||publiclog.zhiyan.tencent-cloud.net
-||dns.weixin.qq.com^
-||adsrv.kurogames.com^
-||alsc-fingerprint.ele.me^
-||report.tencentmusic.com^
-||detect.chaoxing.com^
-||trade.m.xiaomiyoupin.com^
-||tlivemcdn.com^
-||ad-log-upload.mihoyo.com^
-||m.zzx.cnklog.com^
