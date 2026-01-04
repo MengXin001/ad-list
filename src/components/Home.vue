@@ -270,9 +270,9 @@ import { ref, computed, onMounted } from "vue";
 import axios from "axios";
 
 const TQM_RULES_URL =
-  "https://adlist.moexin.cn/list/adlist.txt";
+  "/list/adlist.txt";
 const PACK_RULES_URL =
-  "https://adlist.moexin.cn/list/pack_adlist.txt";
+  "/list/pack_adlist.txt";
 
 const allRules = ref([]);
 const searchTerm = ref("");

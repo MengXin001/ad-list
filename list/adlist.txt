@@ -12,7 +12,6 @@
 /mgsdk-sign.*/
 /pangolin-sdk.*/
 /pcdn/
-/snssdk.*/
 /stun/
 @@||analytics.moexin.cn
 @@||check.ddos-guard.net
@@ -217,3 +216,14 @@
 ||ylog.huya.com
 ||ys-log-upload.mihoyo.com^
 ||zz.bdstatic.com
+@@||cdn.staticfile.net^
+||publiclog.zhiyan.tencent-cloud.net
+||dns.weixin.qq.com^
+||adsrv.kurogames.com^
+||alsc-fingerprint.ele.me^
+||report.tencentmusic.com^
+||detect.chaoxing.com^
+||trade.m.xiaomiyoupin.com^
+||tlivemcdn.com^
+||ad-log-upload.mihoyo.com^
+||m.zzx.cnklog.com^
