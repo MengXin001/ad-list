@@ -68,8 +68,6 @@
 ||cnzz.com
 ||collect.gmcc.net
 ||collector.github.com
-||collector.weiyun.com
-||collector.weiyun.com^
 ||console-base.log-global.aliyuncs.com^
 ||ctldl.windowsupdate.com^
 ||detect.chaoxing.com^
@@ -226,3 +224,10 @@
 ||ylog.huya.com
 ||ys-log-upload.mihoyo.com^
 ||zz.bdstatic.com
+||activity.windows.com^
+||hotfix.api.weibo.cn^
+||update-drcn.platform.hicloud.com^
+||xlog.jd.com.gslb.qianxun.com^
+||bddtlog.eastmoney.com^
+@@||collector.weiyun.com^$important
+||appversion.fnnas.com
