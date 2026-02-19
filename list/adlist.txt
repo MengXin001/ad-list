@@ -21,6 +21,7 @@
 @@||exp.notion.so
 @@||h5api.m.taobao.com^
 @@||havanalogin.taobao.com
+||10000.mt.cn.iot.dreame.tech^
 ||<&emtrackingfordfcft&>
 ||activity-ag.awemeughun.com
 ||activity.windows.com^
@@ -31,6 +32,7 @@
 ||ad.us.sinaimg.cn
 ||adashx.m.taobao.com
 ||adashx.ut.cainiao.com
+||adbehavior.wsa.ximalaya.com^
 ||adbehavior.ximalaya.com
 ||adchk.fivecdm.com
 ||adgw.alipay.com
@@ -39,6 +41,7 @@
 ||adstats.tencentmusic.com
 ||adstrategy.biz.weibo.com
 ||adv.bandi.so
+||agoo-report.m.taobao.com^
 ||ali-stats.jpush.cn
 ||alsc-fingerprint.ele.me^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net
@@ -68,12 +71,16 @@
 ||candy.engine.adglare.net
 ||cc-api-data.adobe.io
 ||check.bt.cn
+||cn.iot.dreame.tech^
 ||cnuspider.yuanshen.com
 ||cnzz.com
 ||collect.gmcc.net
 ||collector.github.com
 ||console-base.log-global.aliyuncs.com^
 ||ctldl.windowsupdate.com^
+||d.alicdn.com^
+||datagw-edge.alipay.com^
+||datasink.jlc.com^
 ||detect.chaoxing.com^
 ||df.tanx.com
 ||dfhs.tanx.com
@@ -85,6 +92,7 @@
 ||event.fnnas.com
 ||feed-image.baidu.com
 ||feedpush.bdstatic.com.a.bdydns.com
+||gamecenter-offline.gtimg.cn^
 ||gamecgi.qzone.qq.com
 ||gamedelivery.baidu.com
 ||gather.colorfulclouds.net
@@ -118,6 +126,7 @@
 ||ipv6.music.163.com
 ||jcdn.tsyndicate.com
 ||jdcloudedge.com^
+||jddebug.com^
 ||jiguang.coc.10086.cn
 ||jomodns.cn^
 ||js96110.com.cn^
@@ -138,6 +147,7 @@
 ||log.aliyuncs.com^
 ||log.mmstat.com^$important
 ||log.voicecloud.cn
+||log.wechatpay.cn^
 ||m.zzx.cnklog.com^
 ||mcdn.bilivideo.cn^
 ||mcs.volceapplog.com
@@ -148,6 +158,7 @@
 ||mountaintoys.cn^
 ||msync-im1-vip6-std.easemob.com
 ||nadvideo2.baidu.com
+||nel.teo-rum.com^
 ||onethingpcs.com^
 ||open-pixon.ads-pixiv.net
 ||opencdnbdfctn.jomodns.com
@@ -214,10 +225,12 @@
 ||up.autodesk.com
 ||update-drcn.platform.hicloud.com^
 ||update.googleapis.com
+||update.hicloud.com^
 ||update.pan.n.shifen.com
 ||upgrade-pc-ssl.xunlei.com^
 ||ut.taobao.com^
 ||ver.bandi.so^
+||waapdg.jd.com^
 ||wbapp.uve.weibo.com
 ||weblog.cdn-go.cn
 ||www.adobe.com
@@ -231,16 +244,3 @@
 ||ylog.huya.com
 ||ys-log-upload.mihoyo.com^
 ||zz.bdstatic.com
-||jddebug.com^
-||update.hicloud.com^
-||datasink.jlc.com^
-||adbehavior.wsa.ximalaya.com^
-||d.alicdn.com^
-||waapdg.jd.com^
-||datagw-edge.alipay.com^
-||nel.teo-rum.com^
-||gamecenter-offline.gtimg.cn^
-||10000.mt.cn.iot.dreame.tech^
-||cn.iot.dreame.tech^
-||agoo-report.m.taobao.com^
-||log.wechatpay.cn^
