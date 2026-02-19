@@ -1,0 +1,65 @@
+name: Lint Filter Lists
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "list/*.txt"
+      - "page/**"
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "list/*.txt"
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: 'The branch or tag to run the workflow on'
+        required: false
+        default: 'main'
+  schedule:
+    - cron: '0 0 */3 * *'
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  release:
+    name: Run FOP.py to check ordering and build pages
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Run FOP.py to check ordering
+        run: echo "" | python3 FOP.py || true
+        shell: bash
+      - name: Commit changes to main branch
+        uses: iarekylew00t/verified-bot-commit@v2.0.1
+        with:
+          files: |
+            list/*.txt
+          message: "chore: auto format lists"
+          ref: refs/heads/main
+          token: ${{ secrets.GITHUB_TOKEN }}
+  cleanup:
+    name: Clean up old workflow runs
+    runs-on: ubuntu-latest
+    needs: release
+    steps:
+      - name: Delete old workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          retain_days: 7
+          keep_minimum_runs: 3

@@ -1,0 +1,33 @@
+name: Pack Filter Lists
+
+on:
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: 'The branch or tag to run the workflow on'
+        required: false
+        default: 'main'
+  schedule:
+    - cron: '0 0 */3 * *'
+
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    name: Run pack.sh to update lists and build pages
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Run pack.sh to update lists
+        run: bash pack.sh
+      - name: Commit changes to main branch
+        uses: iarekylew00t/verified-bot-commit@v2.0.1
+        with:
+          files: |
+            list/*.txt
+          message: "chore: auto update pack lists"
+          ref: refs/heads/main
+          token: ${{ secrets.GITHUB_TOKEN }}
